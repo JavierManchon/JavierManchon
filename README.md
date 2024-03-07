@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Manchón</h1>
-<h3 align="center">who=[developer, designer, gamer, communicator]; me=[] -> for (aspect of me) { me.push("A passionate: " + aspect) }</h3>
+<h3 align="center">who=[developer, designer, gamer, communicator]; me=[] -> for (aspect of who) { me.push("A passionate: " + aspect) }</h3>
 
 - 🌱 I’m currently learning **Angular, React, Typescrip and design tools like Figma**
 
